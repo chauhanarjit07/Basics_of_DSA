@@ -1,63 +1,244 @@
-# Basics in DSA
+<div align="center">
 
-This repository contains various **Data Structures and Algorithms (DSA)** practice problems and solutions to help build a strong foundation in programming.
+# 🚀 Basics of Data Structures & Algorithms
 
-### 📂 Folders
+### *Building Strong Logic • Solving Problems • Growing Every Day*
 
-* **`patterns`** – A collection of pattern-printing problems for improving logic-building skills.
-* **`basics_maths`** – Solutions to fundamental mathematics problems such as checking if a number is prime, counting the number of digits, reversing a number, finding GCD, and more.
-* **`basic_recursion_ques`** – Basic recursion problems, including:
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+DSA+Journey!;Learning+C%2B%2B+from+Scratch;Practice+%E2%9E%9C+Consistency+%E2%9E%9C+Success;Preparing+for+Coding+Interviews;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG"/>
 
-  * Print numbers from **1 to N**
-  * Print numbers from **N to 1**
-  * Print a name **N times**
-  * Find the **sum of the first N natural numbers**
-  * Calculate the **factorial** of a number
-  * Generate the **Fibonacci** series
-  * Check if a **string is a palindrome**
-  * **Reverse an array** using recursion
- 
-## 📂 Repository Structure
+<br>
 
-### 🔹 Patterns
+<img src="https://komarev.com/ghpvc/?username=chauhanarjit07&label=Repository+Visitors&color=0e75b6&style=for-the-badge"/>
 
-Collection of star, number, and character pattern problems to strengthen loop concepts and logic building.
+<br><br>
 
-### 🔹 Basic Maths
+![Stars](https://img.shields.io/github/stars/chauhanarjit07/Basics_of_DSA?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/chauhanarjit07/Basics_of_DSA?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/chauhanarjit07/Basics_of_DSA?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/chauhanarjit07/Basics_of_DSA?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/chauhanarjit07/Basics_of_DSA?style=for-the-badge)
 
-Fundamental mathematical problems such as:
+</div>
 
-* Count Digits
-* Reverse Number
-* Armstrong Number
-* Prime Number Check
-* GCD/HCF
-* Palindrome Number
+---
 
-### 🔹 Basic Recursion
+# 📖 About
 
-Beginner recursion problems including:
+This repository contains my solutions to **Data Structures and Algorithms** problems implemented in **C++**.
 
-* Print N Times
-* Sum of First N Numbers
-* Factorial
-* Fibonacci Series
-* Palindrome Check
-* Reverse Array
+The purpose of this repository is to:
 
-### 🔹 Basic Hashing
+* 📚 Learn DSA from scratch
+* 💡 Build strong problem-solving skills
+* 🧠 Improve logical thinking
+* 💻 Prepare for coding interviews
+* 🚀 Track my daily learning journey
 
-Introduction to hashing and frequency counting:
+Every solution is written with readability and simplicity in mind so that beginners can easily understand the logic.
 
-* Frequency of Integers using Arrays
-* Frequency of Characters using Arrays
-* Integer Frequency using Map
-* Character Frequency using Map
-* Highest Frequency Element
+---
 
-## 🎯 Purpose
+# 🛠 Tech Stack
 
-This repository contains beginner-friendly DSA problems and solutions in C++. It is designed to help students build a strong foundation in programming, problem-solving, and core DSA concepts through hands-on practice.
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode" />
 
-This repository is designed for practice, learning, and strengthening DSA fundamentals. More problems will be added as I continue learning. Contributions, suggestions, and improvements are always welcome!
+</p>
+
+---
+
+# 📂 Repository Structure
+
+```text
+📦 Basics_of_DSA
+│
+├── ⭐ Pattern
+│
+├── 🧮 Basics_Maths
+│
+├── 🔁 Basic_Recursion_Ques
+│
+├── #️⃣ Hashing
+│
+├── 🔀 Sorting-1
+│
+└── README.md
+```
+
+---
+
+# 📚 Topics Covered
+
+| Topic                 |     Status     |
+| --------------------- | :------------: |
+| ⭐ Pattern Printing    |        ✅       |
+| 🧮 Basic Maths        |        ✅       |
+| 🔁 Recursion          |        ✅       |
+| #️⃣ Hashing           |        ✅       |
+| 🔀 Sorting            |        ✅       |
+| 📦 Arrays             | 🟡 In Progress |
+| 🔍 Binary Search      |  ⏳ Coming Soon |
+| 🔤 Strings            |        ⏳       |
+| 🔗 Linked List        |        ⏳       |
+| 📚 Stack              |        ⏳       |
+| 🚶 Queue              |        ⏳       |
+| 🌳 Trees              |        ⏳       |
+| 🌐 Graphs             |        ⏳       |
+| ⚡ Dynamic Programming |        ⏳       |
+
+---
+
+# 📈 Learning Progress
+
+```text
+Pattern Printing      ████████████████████ 100%
+
+Basic Maths           ████████████████████ 100%
+
+Recursion             ████████████████████ 100%
+
+Hashing               ████████████████████ 100%
+
+Sorting               ███████████████████░ 95%
+
+Arrays                ███████░░░░░░░░░░░░ 35%
+
+Binary Search         ███░░░░░░░░░░░░░░░░ 15%
+
+Strings               ░░░░░░░░░░░░░░░░░░░ 0%
+
+Linked List           ░░░░░░░░░░░░░░░░░░░ 0%
+
+Trees                 ░░░░░░░░░░░░░░░░░░░ 0%
+
+Graphs                ░░░░░░░░░░░░░░░░░░░ 0%
+
+Dynamic Programming   ░░░░░░░░░░░░░░░░░░░ 0%
+```
+
+---
+
+# ⚙️ Run the Code
+
+### Clone Repository
+
+```bash
+git clone https://github.com/chauhanarjit07/Basics_of_DSA.git
+```
+
+### Open Folder
+
+```bash
+cd Basics_of_DSA
+```
+
+### Compile
+
+```bash
+g++ filename.cpp -o output
+```
+
+### Run
+
+**Windows**
+
+```bash
+output.exe
+```
+
+**Linux/macOS**
+
+```bash
+./output
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chauhanarjit07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanarjit07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=chauhanarjit07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhanarjit07&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chauhanarjit07&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🎯 Goals
+
+* ✅ Master Data Structures
+* ✅ Improve Problem Solving
+* ✅ Learn Optimized Algorithms
+* ✅ Build Consistency
+* ✅ Prepare for Placements
+* ✅ Solve 500+ DSA Problems
+
+---
+
+# 🤝 Contributions
+
+Contributions are welcome!
+
+If you'd like to improve any solution or add a new approach:
+
+* ⭐ Star the repository
+* 🍴 Fork the repository
+* 🐞 Open an Issue
+* 🚀 Submit a Pull Request
+
+---
+
+# 👨‍💻 Author
+
+## **Arjit Chauhan**
+
+🎓 B.Tech Student
+
+💻 C++ | DSA | ASP.NET | MySQL
+
+🌱 Currently learning Advanced Data Structures & Algorithms
+
+⭐ If you find this repository useful, don't forget to **Star** it!
+
+---
+
+<div align="center">
+
+### 💬 *"The expert in anything was once a beginner."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00B4DB,100:0083B0&section=footer"/>
+
+</div>
