@@ -114,8 +114,10 @@ Basics_of_DSA/
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chauhanarjit07&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanarjit07&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://img.shields.io/github/stars/chauhanarjit07/Basics_of_DSA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/chauhanarjit07/Basics_of_DSA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/chauhanarjit07/Basics_of_DSA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/chauhanarjit07/Basics_of_DSA?style=for-the-badge" />
 </p>
 
 ---
