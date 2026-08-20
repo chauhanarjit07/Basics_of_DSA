@@ -80,8 +80,8 @@ Basics_of_DSA/
 | Recursion | ✅ |
 | Hashing | ✅ |
 | Sorting | ✅ |
-| Arrays | 🚧 |
-| Binary Search | ⏳ |
+| Arrays | ✅ |
+| Binary Search | 🚧 |
 | Strings | ⏳ |
 | Linked List | ⏳ |
 | Stack | ⏳ |
