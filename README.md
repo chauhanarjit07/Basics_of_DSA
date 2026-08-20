@@ -99,7 +99,7 @@ Basics_of_DSA/
 - ✅ Recursion
 - ✅ Hashing
 - ✅ Sorting
-- ⏳ Arrays
+- ✅ Arrays
 - ⏳ Binary Search
 - ⏳ Strings
 - ⏳ Linked List
