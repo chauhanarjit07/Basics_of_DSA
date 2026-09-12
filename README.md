@@ -81,9 +81,9 @@ Basics_of_DSA/
 | Hashing | ✅ |
 | Sorting | ✅ |
 | Arrays | ✅ |
-| Binary Search | 🚧 |
+| Binary Search | ✅ |
 | Strings | ⏳ |
-| Linked List | ⏳ |
+| Linked List | 🚧 |
 | Stack | ⏳ |
 | Queue | ⏳ |
 | Trees | ⏳ |
@@ -100,7 +100,7 @@ Basics_of_DSA/
 - ✅ Hashing
 - ✅ Sorting
 - ✅ Arrays
-- ⏳ Binary Search
+- ✅ Binary Search
 - ⏳ Strings
 - ⏳ Linked List
 - ⏳ Stack
