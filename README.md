@@ -83,8 +83,8 @@ Basics_of_DSA/
 | Arrays | ✅ |
 | Binary Search | ✅ |
 | Strings | ⏳ |
-| Linked List | 🚧 |
-| Stack | ⏳ |
+| Linked List | ✅ |
+| Stack | 🚧  |
 | Queue | ⏳ |
 | Trees | ⏳ |
 | Graphs | ⏳ |
@@ -102,7 +102,7 @@ Basics_of_DSA/
 - ✅ Arrays
 - ✅ Binary Search
 - ⏳ Strings
-- ⏳ Linked List
+- ✅ Linked List
 - ⏳ Stack
 - ⏳ Queue
 - ⏳ Trees
