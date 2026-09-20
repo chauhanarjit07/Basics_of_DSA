@@ -125,7 +125,7 @@ Basics_of_DSA/
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhanarjit07&theme=github-compact&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/chauhanarjit07" alt="Arjit Chauhan's GitHub contribution graph" />
 </p>
 
 ---
