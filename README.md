@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### *A structured collection of C++ solutions for mastering Data Structures & Algorithms.*
+### *A structured C++ repository for learning DSA, solving problems, and building strong fundamentals.*
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Learning-blueviolet?style=for-the-badge)
@@ -18,9 +18,7 @@
 
 ## 📖 About
 
-Welcome to **Basics_of_DSA**!
-
-This repository contains my journey of learning **Data Structures and Algorithms using C++**. It includes beginner-friendly implementations, clean code, and organized solutions that help strengthen problem-solving skills and prepare for coding interviews.
+**Basics_of_DSA** documents my DSA learning journey through organized C++ implementations and problem-solving practice.
 
 ---
 
@@ -32,7 +30,7 @@ This repository contains my journey of learning **Data Structures and Algorithms
 - [Topics Covered](#-topics-covered)
 - [Learning Roadmap](#-learning-roadmap)
 - [GitHub Stats](#-github-stats)
-- [Contribution Graph](#-contribution-graph)
+- [Contribution Journey](#-contribution-journey)
 - [Getting Started](#-getting-started)
 - [Contributing](#-contributing)
 - [License](#-license)
