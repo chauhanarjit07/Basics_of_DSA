@@ -122,16 +122,21 @@ Basics_of_DSA/
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chauhanarjit07/Basics_of_DSA/activity-assets/activity-365d.svg" alt="Arjit Chauhan's GitHub contribution activity for the last 365 days" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chauhanarjit07&custom_title=My%20DSA%20Contribution%20Journey&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&radius=16&days=45"
+    alt="Arjit Chauhan's GitHub contribution activity graph"
+    width="95%"
+  />
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/chauhanarjit07/Basics_of_DSA/activity-assets/activity-30d.svg">30 Days</a> ·
-  <a href="https://raw.githubusercontent.com/chauhanarjit07/Basics_of_DSA/activity-assets/activity-90d.svg">90 Days</a> ·
-  <a href="https://raw.githubusercontent.com/chauhanarjit07/Basics_of_DSA/activity-assets/activity-365d.svg">365 Days</a>
+  <img
+    src="https://streak-stats.demolab.com/?user=chauhanarjit07&theme=github-dark-blue&hide_border=true&border_radius=16&card_width=495"
+    alt="Arjit Chauhan's GitHub contribution streak"
+  />
 </p>
 
 ---
