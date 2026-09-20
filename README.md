@@ -127,7 +127,7 @@ Basics_of_DSA/
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=chauhanarjit07&custom_title=My%20DSA%20Contribution%20Journey&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&radius=16&days=45"
-    alt="Arjit Chauhan's GitHub contribution activity graph"
+    alt=""
     width="95%"
   />
 </p>
@@ -135,7 +135,7 @@ Basics_of_DSA/
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=chauhanarjit07&theme=github-dark-blue&hide_border=true&border_radius=16&card_width=495"
-    alt="Arjit Chauhan's GitHub contribution streak"
+    alt=""
   />
 </p>
 
