@@ -122,10 +122,16 @@ Basics_of_DSA/
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/chauhanarjit07" alt="Arjit Chauhan's GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/chauhanarjit07/Basics_of_DSA/activity-assets/activity-365d.svg" alt="Arjit Chauhan's GitHub contribution activity for the last 365 days" />
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/chauhanarjit07/Basics_of_DSA/activity-assets/activity-30d.svg">30 Days</a> ·
+  <a href="https://raw.githubusercontent.com/chauhanarjit07/Basics_of_DSA/activity-assets/activity-90d.svg">90 Days</a> ·
+  <a href="https://raw.githubusercontent.com/chauhanarjit07/Basics_of_DSA/activity-assets/activity-365d.svg">365 Days</a>
 </p>
 
 ---
