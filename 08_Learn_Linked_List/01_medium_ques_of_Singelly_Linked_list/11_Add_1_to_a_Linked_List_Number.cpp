@@ -63,7 +63,7 @@ class Solution {
             }
         }
   public:
-    Node* addOne(Node* head) {
+    Node* oneadd(Node* head) {
         int carry= oneadd(head);
         if(carry==1){
             Node* temp= new Node(1);
