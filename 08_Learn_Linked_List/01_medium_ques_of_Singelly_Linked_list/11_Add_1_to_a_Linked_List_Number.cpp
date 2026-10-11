@@ -50,11 +50,11 @@ class Solution {
 
 //-------------------Optimal Approach---------------------------------
 class Solution {
-    int reversee(Node *temp){
+    int oneadd(Node *temp){
             if(temp==nullptr ) return 1;
 
             else{
-                int carry= reversee(temp->next);
+                int carry= oneadd(temp->next);
                 temp->data+=carry;
                 if(temp->data<10) return 0;  
                 
@@ -64,7 +64,7 @@ class Solution {
         }
   public:
     Node* addOne(Node* head) {
-        int carry= reversee(head);
+        int carry= oneadd(head);
         if(carry==1){
             Node* temp= new Node(1);
             temp->next= head;
